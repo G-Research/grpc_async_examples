@@ -1,4 +1,8 @@
-# grpc_async_examples 
+# Status: Archived
+
+![status: inactive](https://img.shields.io/badge/status-inactive-red.svg)
+
+# grpc_async_examples
 
 These are examples for a G-Research's [blog post](https://www.gresearch.co.uk/2019/03/20/lessons-learnt-from-writing-asynchronous-streaming-grpc-services-in-c/) about gRPC. They are modified versions of the examples from [gRPC's repository](https://github.com/grpc/grpc).
 
